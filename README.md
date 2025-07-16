@@ -145,8 +145,8 @@ MIT License — see [LICENSE](LICENSE) file.
 ## 📞 Contact
 
 Created by Suvathy Arul  
-Email: your.email@example.com  
-GitHub: [yourusername](https://github.com/yourusername)
+Email: anusuwathy03@gmail.com 
+GitHub: [suva-tech](https://github.com/SUVA-tech)
 
 ---
 
